@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whisper Transcription & AI Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Whisper Transcription & AI Analysis</h1>
+
+        <form id="transcription-form" enctype="multipart/form-data">
+            <label for="audio-file">Upload Audio File:</label>
+            <input type="file" id="audio-file" name="audio_file" accept="audio/*">
+            <button type="submit">Transcribe</button>
+        </form>
+
+        <div id="transcription-result"></div>
+
+        <textarea id="transcript-text" placeholder="Transcript will appear here..." rows="10"></textarea>
+
+        <button id="analyze-button">Thematic Analysis</button>
+        <div id="thematic-analysis-result"></div>
+
+        <button id="insights-button">Overall Insights</button>
+        <div id="overall-insights-result"></div>
+    </div>
+
+    <script>
+        document.getElementById('transcription-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData();
+            const audioFile = document.getElementById('audio-file').files[0];
+            formData.append('audio_file', audioFile);
+
+            fetch('/transcribe', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('transcription-result').innerText = data.transcript || data.error;
+                document.getElementById('transcript-text').value = data.transcript;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+
+        document.getElementById('analyze-button').addEventListener('click', function() {
+            const transcript = document.getElementById('transcript-text').value;
+            fetch('/thematic_analysis', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ transcript })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('thematic-analysis-result').innerText = data.analysis || data.error;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+
+        document.getElementById('insights-button').addEventListener('click', function() {
+            const transcript = document.getElementById('transcript-text').value;
+            fetch('/overall_insights', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ transcript })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('overall-insights-result').innerText = data.insights || data.error;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>

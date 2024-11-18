@@ -1,0 +1,382 @@
+[00:00:00,000] All right. Yeah, happy to hear about yourself and your role at UNI lever and then we can start with the questions.
+
+[00:00:10,000] So, so in some enterprise architect that you leave up, I partner with our technology services area, which basically means that my main focus is on infrastructure and cloud.
+
+[00:00:29,000] And cloud and that kind of thing.
+
+[00:00:33,000] So, as an enterprise architect, I produce quite a lot of documentation and artifact for various stakeholders.
+
+[00:00:47,000] So, it can be, you know, PowerPoint or senior stakeholders, it can be write down to very in depth technical documents for our technical teams.
+
+[00:01:01,000] So, I thought if you want me to carry on as to where the easy generator comes in at the moment or whether you want to get on to that later.
+
+[00:01:11,000] Yeah, I guess once we go into the questions that will inevitably come up. So yeah, all right. Perfect. So, I'll go ahead and get started with the first question.
+
+[00:01:21,000] So, the first question is around your initial impressions about the doctor course functionality.
+
+[00:01:26,000] So, what were your initial impressions when you heard about the doctor course functionality for the first time and what specific problem did you hope it would solve?
+
+[00:01:34,000] So, as a follow up to that, then were you expecting a draft course that I can use to create a course with be a course ready for publication or see something in the middle?
+
+[00:01:47,000] It's difficult because I've not created a course before. I've only ever created the document artifacts.
+
+[00:01:57,000] So, the AI element to it and the easy generation part of it. I didn't really have any expectations because I'm feeling my way through just creating a course in the first place. That makes sense.
+
+[00:02:14,000] Right. Okay. So, at that time, you don't have any initial expectations.
+
+[00:02:20,000] All right. I guess. Yeah. No worries. All right. Then moving to the next one, which is then more on the usage side of things.
+
+[00:02:28,000] So, when you were using the doctor course functionality, what was the first thing you noticed? Did anything surprise you at that time?
+
+[00:02:39,000] Well, so I first learned about it on the onboarding session, which was provided by the company.
+
+[00:02:50,000] I had enrolled some weeks and weeks ago, but I didn't find the information sufficient to use the tool.
+
+[00:03:03,000] So, the onboarding, I took a course on the onboarding, took me through how to do the course generation.
+
+[00:03:12,000] And it was only at that time that I found out about the document element to it. So, I expected to have some kind of AI assistant maybe, but I didn't expect to just give it a document and off it goes.
+
+[00:03:30,000] So, I found out about that on the onboarding. So, I would say the onboarding is invaluable to get people to actually use the tool. It really, really helps.
+
+[00:03:41,000] But yeah, I didn't even know about the document element until then. So, I would say, yeah, I was, I'm really impressed generally with the fact that you can feed it in a document and an out pops course. Yeah, for sure.
+
+[00:03:58,000] Absolutely. Okay. Perfect. Thanks.
+
+[00:04:01,000] All right. So, the next question then on the usage side of things as well, which is a follow up to that. Could you walk me through how you use a doctor course feature and can you think out loud while doing it?
+
+[00:04:13,000] Tell me what you think at every step. No right or wrong answers here. Just be as candid as you can be.
+
+[00:04:19,000] So, just step by step how you use the functionality and you can think out loud while doing it.
+
+[00:04:25,000] Well, I mean, I would say it quite gingerly in that I've not done it before. So, I'm kind of feeling my way around wasn't quite sure what the steps were to take.
+
+[00:04:43,000] But I managed to get through it. It asked me all the questions up front. So, it feels very much like that's crucial part is to answer all of those questions with as much detail as possible.
+
+[00:05:01,000] And then once you put that initial effort in, I think the actual creation was quite simple.
+
+[00:05:13,000] And the only thing that I guess could have been easier or could have been even more of a time safer was it didn't seem to take the images from my documents.
+
+[00:05:30,000] So, I recall I had to then go through and replace into the images. And I guess that could be a little bit smoother even if it doesn't know which image to use in which section.
+
+[00:05:42,000] Perhaps it could take the images in. Put them in a kind of holding area. So, you could literally just click and say, you know, put image on here, image to there. Right. That was the only laborious thing that I seem to remember was doing the images.
+
+[00:05:59,000] That's perfect. And I think we are actually working towards that functionality to bring over the images. That's something on our roadmap already and we're working towards it. So you will be having that soon in the doctor's functionality.
+
+[00:06:12,000] So, thanks for sharing that. Appreciate it. Perfect. Okay. So question number four then moves on to on so on the uses side, but then a little bit more about the documents. So, if you could tell us about the documents you've uploaded to use this feature.
+
+[00:06:26,000] How helpful was this option? And as a follow up to that, what documents did you upload or sorry what type of documents is your upload and were there any formats you wish were supported but weren't.
+
+[00:06:37,000] So, yeah, amazingly useful. So, I created two courses so far.
+
+[00:06:47,000] The topic, I mean, the topic is platform engineering, right? So, it's a technical topic. It may not be an in fact, it isn't a topic that many people are very familiar with.
+
+[00:07:02,000] So, what I've created is two separate courses. I've created a beginner's course, which is purely vanilla in that I did not load any documents for that one. I just said, you know, generally, if I'm somebody that doesn't know this topic, give me an understanding of the topic.
+
+[00:07:27,000] So, that seemed to be appropriate in terms of the level for beginners. So, that was the first one. So, then the second one is the either for people that are already familiar with the topic or they've taken the first course, then they can move on to the second course.
+
+[00:07:48,000] And what the second course is, is I've called it intermediate, but this is harnessing platform engineering within Unilever.
+
+[00:08:00,000] So, this is far more detailed and it's not just a vanilla, what is it? It talks about how you can apply it and gives examples and it's quite a technical document in nature.
+
+[00:08:17,000] It happens to be a word document. It's what we call a point of view in Unilever. We produce all sorts of different documents.
+
+[00:08:30,000] This one, as it suggests, is a point of view. It's as an enterprise architect. How do I think we could benefit from platform engineering within Unilever?
+
+[00:08:43,000] So, it's word, it's about 20-odd pages long and it's got, I'd say, 20 plus images that are all Unilever-specific images.
+
+[00:08:55,000] So, hence, that makes it, the content is far more tailored than to our company and would probably get a different audience to the basic one.
+
+[00:09:15,000] So, that's the only format I've tried. Possibly, so we do also create a PowerPoint kind of deck for leadership, you know, executive.
+
+[00:09:30,000] It's so, it's mainly just the images, a subset of the document with images, not so much on the text, very, very little text on each one.
+
+[00:09:45,000] But yeah, that would be a PowerPoint, and I don't know if that's something that you support already.
+
+[00:09:49,000] Yeah, well then, Dr. Cours, we have the PowerPoint supported as well as Word and PDF.
+
+[00:09:55,000] Okay, cool. That's very nice to know. And thanks so much for providing the hills around the document. That's super helpful.
+
+[00:10:01,000] And will definitely help us make this functionality better.
+
+[00:10:05,000] Okay, so then moving on to then the generated bit with regards to the content accuracy and relevancy.
+
+[00:10:13,000] So, the question is how accurate was the content generated from your uploaded documents? If you could rate on a scale of 1 to 5 the accuracy of content.
+
+[00:10:21,000] And then as a follow up to that, what aspects of the content were most or least accurate?
+
+[00:10:27,000] Okay, so that one is a little bit tricky at the moment, although I'd be happy to offer a follow up call because it's out for review at the moment.
+
+[00:10:39,000] So I sent it out to my team for feedback. And then I've also asked for a small focus group to come together because this is the first time we're doing it.
+
+[00:10:53,000] And I want to ask those questions of my users before we look to perhaps expand it and roll it out for all the topics.
+
+[00:11:04,000] So for me, I had a quick look through, but it's really hard to check your own homework, right? You know, I wrote the documents.
+
+[00:11:12,000] So I did go through it myself. I took the quizzes test. Thankfully, I did get them all right.
+
+[00:11:22,000] If that could have been a problem. So obviously the content was it made sense from that point of view.
+
+[00:11:32,000] And it was able to pull out relevant sensible questions.
+
+[00:11:37,000] So if I was to give it a score, I would say four at the moment. But I don't know, you know, it could go either way depending on what the users say.
+
+[00:11:46,000] Yeah, absolutely. And we can definitely set up a follow up call or even coordinate on email and see you've received any updates and you can share that with that.
+
+[00:11:54,000] Fantastic. Well, thanks. Appreciate sharing that information.
+
+[00:11:59,000] So then with regards to the content again, how well did it align with the course goal and objectives?
+
+[00:12:06,000] So as a follow up that also could you give me an example of a goal or an objective that was well aligned and also something that was not well aligned if there was anything.
+
+[00:12:15,000] Again, I'm probably just going to say, you know, a four at the moment and wait to see if we need to tweak that when we get the feedback.
+
+[00:12:27,000] All right, perfect.
+
+[00:12:30,000] All right. So I'm just looking at the next question is also around the output.
+
+[00:12:36,000] But then this is more about the different elements within the output. So how effective was the overall output when compared to what you may have created manually.
+
+[00:12:45,000] Right. So if you could rate each of the following elements on a scale of one to five and briefly explain any any areas where output for each element exceeded or fell short of your expectations.
+
+[00:12:54,000] So the elements are course structure learning objectives page content questions and images.
+
+[00:13:02,000] So we're here comparing what you would have created manually versus what was auto generated and then yeah, if these elements.
+
+[00:13:12,000] So I think I'm going to go for a four for all of them except for the images which have I explained earlier. I'll probably give that a two.
+
+[00:13:27,000] Okay. Okay. And were there any areas where they exceeded or fell short of your expectations. So the structure, the objectives, questions.
+
+[00:13:37,000] I think it I think generally the fours because it all up to this point up to the course generation points. It's all exceeded what I initially expected.
+
+[00:13:53,000] The stage in it now, which I think I put in the briefing is I don't know if we get on to that on the questions, but it's once you've generated the course then what and there's a lot of obstacles and unknowns and that kind of thing which
+
+[00:14:10,000] you know, maybe as I say the onboarding was really valuable.
+
+[00:14:15,000] And I think had it not been for that I probably wouldn't have had the nudge to use it to be fair.
+
+[00:14:21,000] So maybe there's there's something around, you know, taking you through after you've created it.
+
+[00:14:31,000] So I've done the publishing which you know download some.
+
+[00:14:36,000] Or I don't even know what they are right because I've not done courses before so this now is obstacles and it's proven to be a bit tricky now within you.
+
+[00:14:51,000] So maybe that's some handholding that you guys could offer going forward.
+
+[00:14:56,000] But I know that's probably skipping questions.
+
+[00:14:59,000] But no, in terms of the generation, I say all of all because I'd say it was all of all the expectations to be fair.
+
+[00:15:07,000] I was surprised and you know, that like I say the I mean, if you want an example, the quizzes in particular, I just thought was right, you know, because
+
+[00:15:19,000] they all made sense and like I say I got them, I got them right.
+
+[00:15:24,000] So they must have made sense. So that was good.
+
+[00:15:27,000] Perfect. Awesome.
+
+[00:15:29,000] And then moving on to the structuring of topics and the course layout.
+
+[00:15:33,000] So if you went into the course and checked out the layout on how it was basically structure.
+
+[00:15:40,000] So did you find the structure of topics and course, they are suggested by the course, but they're helpful via why not.
+
+[00:15:45,000] And what changes would you make to the layout if there are any.
+
+[00:15:50,000] So it wasn't what I expected.
+
+[00:15:54,000] Or let me be afraid that I wouldn't suggest any changes.
+
+[00:15:59,000] Because the new to course generation, I think, you know, I'm being led by people that have created a lot of courses in the past and have come up with an optimal solution.
+
+[00:16:11,000] So I'm assuming that the structure we've got is optimal for some reason, right.
+
+[00:16:17,000] But given that it was like a say a 20-odd page document, I think it broke it down just into three or four sections, which felt very light to me.
+
+[00:16:28,000] That was the only feedback for that kind of document.
+
+[00:16:31,000] I think for the introduction one that I did, the vanilla one, it was five.
+
+[00:16:36,000] But for the document creation one where you've got a heavy technical document, I was expecting more sections.
+
+[00:16:46,000] Because I felt like they didn't quite marry up to the whole document.
+
+[00:16:51,000] But I wouldn't suggest changing it.
+
+[00:16:53,000] Because like I say, you know, I'm sure that, you know, if you if you put too many sections in, people may not take the course.
+
+[00:16:59,000] It might be too long to complicate it, etc. So, you know, I wouldn't necessarily say that change the changing it was just an observation on my side.
+
+[00:17:09,000] Got it. That's super helpful.
+
+[00:17:10,000] And then just follow up to that in terms of the technical document that you mentioned about 20 pages.
+
+[00:17:16,000] When you create courses on these documents, is it that you kind of replicate the information that's there is essential that everything comes as is or rephrasing it or restructuring it.
+
+[00:17:28,000] Can make sense.
+
+[00:17:31,000] Yeah, there's a question.
+
+[00:17:33,000] I've never created a course on it before.
+
+[00:17:36,000] I've said, so we are very well versed in creating documents.
+
+[00:17:42,000] And so the trigger on the main trigger to the course is reaching a broader audience.
+
+[00:17:54,000] So finding another channel because we all learn differently, right?
+
+[00:17:59,000] So a detailed technical documents is find for technical teams.
+
+[00:18:07,000] And even then they probably, you know, not all of them will read it all.
+
+[00:18:12,000] But you want to be able to reach, you know, perhaps for management grades, higher level grades that are just not going to.
+
+[00:18:23,000] Read to that level of detail.
+
+[00:18:26,000] So I think I think it's fine with which we're trying this out.
+
+[00:18:34,000] And I think for the objective for us, which is to reach more people with the message in a different format, I think it's fine.
+
+[00:18:45,000] Perfect.
+
+[00:18:46,000] I wouldn't expect the whole contents of the documents being included in the course.
+
+[00:18:50,000] No, definitely not because also I've tried to play around with, you know, the test function.
+
+[00:18:57,000] And I've set a plane around with like a 70% pass level for the basic one and a 90% pass level for the more advanced one.
+
+[00:19:08,000] And I think if you put too much information in, you know, how are people going to get that 70% or do you have to drop?
+
+[00:19:15,000] Right down. So I don't think there's an issue with it.
+
+[00:19:20,000] Got it, got it.
+
+[00:19:23,000] Fantastic. Thanks for sharing that.
+
+[00:19:26,000] So then there's, we have three more questions left.
+
+[00:19:29,000] So how would you describe your overall experience using Doctor Course feature on a scale of one to five?
+
+[00:19:35,000] How would you rate your overall experience? And then what were the highlights and low points of your experience?
+
+[00:19:41,000] So I would go for overall very impressed.
+
+[00:19:53,000] High points were, I'd say the questions all seemed relevant.
+
+[00:19:59,000] The content at all seemed sensible.
+
+[00:20:04,000] The points is the images replacing all of those was a little bit laborious.
+
+[00:20:13,000] And the host publishing functions now.
+
+[00:20:19,000] You know, I think it does assume that perhaps you're a learning professional using this.
+
+[00:20:26,000] And that you used to publish in courses or creating courses.
+
+[00:20:31,000] And I didn't have a format. It didn't mean anything to me.
+
+[00:20:34,000] So it presented me with three options.
+
+[00:20:38,000] Skull.
+
+[00:20:40,000] Version 1.2, version three and API.
+
+[00:20:44,000] I don't know. I don't know the difference. So I was at a standpoint there.
+
+[00:20:48,000] I didn't know what to do. So I reached out internally then to our, you know, learning team.
+
+[00:20:55,000] What do I do now? I've created this, but now where do I go?
+
+[00:20:59,000] Maybe something on your end to put little explainers in about what these formats are.
+
+[00:21:09,000] You know, where you go next. So, you know, are they only for learning management systems like so we use cornerstone, for example.
+
+[00:21:18,000] My objective is to surface this through degree to your word of degree.
+
+[00:21:26,000] So I don't think it needs to be this special format for degree.
+
+[00:21:33,000] So I guess it. Yeah, what's the follow on then?
+
+[00:21:38,000] Once you've got this file, what can you do with it? What's some common examples?
+
+[00:21:44,000] And where could you go for more help? Having said that, I do know that in the screen and the easy generator screen, you've always got the little button on the bottom right, which says, you know,
+
+[00:21:55,000] you want some help click this foot. So I know I can go there. And in fact, I did. I asked some questions there.
+
+[00:22:03,000] But it'd be nice. You know, you don't want to be just keeping on going to that and asking those questions. So it just be nice if there was a little bit more information there about what you do next.
+
+[00:22:13,000] It just seems to stop. Right. You've got your score on file. That's it. Stop.
+
+[00:22:17,000] Absolutely. Thanks for sharing that. I think that's really, really important feedback. And because we strive to make our tool as easy as possible for subgeumar experts and as intuitive as possible.
+
+[00:22:27,000] So this feedback, I'll forward to our course publication team and we'll ensure that try to make that as simple as possible and make it easy to understand for subgeumar experts that are not necessarily learning development professionals.
+
+[00:22:41,000] So thank you for sharing that. It's super important. No, okay. Then second last question. So if you could change one thing about doctor's feature, what would it be and what feature with significantly enhanced your experience?
+
+[00:22:54,000] So yeah, the images, I think would be the main thing. So either have it go, what bringing the images in or like I say, just put them in, you know, some kind of media manager, let's say.
+
+[00:23:15,000] So then you can just literally click and choose click and choose rather than, you know, just make that a bit quicker. That was all.
+
+[00:23:23,000] All right. Perfect. Right. And then lastly, is there anything else you would like to share about your experience with the doctor's feature that we haven't covered or any other comments or suggestions that you may have?
+
+[00:23:35,000] Only to repeat what I said earlier, really, I think the fact that you do reach out proactively.
+
+[00:23:45,000] And you know, you dedicate somebody to literally sit through and show someone how to use the tool.
+
+[00:23:54,000] I think that's a huge value. And I think from your point of view, you know, that really does bring value back to you because, you know, I had, you know, I had the idea I had some enthusiasm to go and do this without that onboarding.
+
+[00:24:15,000] I'm sure I would have done it because it all felt a bit, you know, especially not being alone in professional right. It all felt just a little bit difficult.
+
+[00:24:25,000] And yeah, when I get time, I'll sit down and I'll learn about it. But having that onboarding session.
+
+[00:24:32,000] That really, really made a difference. And usually I wouldn't take a call.
+
+[00:24:38,000] Like I've taken from yourself today, you know, obviously as an EA, we get loads of vendors all the time trying to get time in the diary, but because it's clearly your esophage to work that way.
+
+[00:24:53,000] And the experience that I've had so far, hence that's why I was happy to do the call and give you the feedback. So I think this proactiveness that you do in, yeah, it's amazing.
+
+[00:25:05,000] So that's what I would add. Yeah.
+
+[00:25:08,000] Thank you so much. And this is a really great feedback. And I'll force forward this to our onboarding team that they've done a great job.
+
+[00:25:15,000] So really, really appreciate you sharing that and of course we'll continue to be as practical as possible and try to educate all of our users on the new features that are coming and to help them utilize the tool and much better.
+
+[00:25:27,000] That's fantastic. All right. So that wraps up our interview. Thank you so much, Janice, for your time.
+
+[00:25:33,000] All I would say is obviously for me, I still haven't got a published course, right?
+
+[00:25:39,000] So I'm assuming that going forward, I'm going to get what I need from our learning team and the lady I've been dealing with is helpful, but she just doesn't know.
+
+[00:25:48,000] She's kind of trying to find a way through it with me and I've logged a call with our training team.
+
+[00:25:54,000] So that's the only potential risk. If that doesn't go right, I won't be doing any more.
+
+[00:26:00,000] But if that goes right, I'll be potentially rolling this out to many other topics. So I don't know whether you have got any influence there or if you've got any, you know, partnerships in the back end with our learning team or.
+
+[00:26:17,000] I don't know, but that's just that's a risk is that if that side of it, which is beyond your control right now, doesn't go well, then you might lose me, but if it goes and you'll see some more courses popping up hopefully.
+
+[00:26:32,000] Absolutely. And I hope it goes well. And then also once you have that feedback on that course that you've created.
+
+[00:26:40,000] Let me know on what the feedback was from the.
+
+[00:26:43,000] Okay. How do I do that? How did I let you know what's the best way?
+
+[00:26:48,000] Yeah, on my email address would be.
+
+[00:26:51,000] The email. Okay.
+
+[00:26:52,000] Yeah, I can send it over right now here. This is very quickly.
+
+[00:26:56,000] Here we are. Yeah, just on my email. And if it's really extensive, we can also connect over call.
+
+[00:27:04,000] But yeah, I think that will be great.
+
+[00:27:07,000] Because then we can take that into account. So if it's if it's fall short in some areas, we can take that into account and then try to improve.
+
+[00:27:14,000] If it's fantastic, then of course we can consider keeping certain elements the same.
+
+[00:27:19,000] So that's we're collecting feedback from all the different users and then we'll see where are the key themes around them and make decisions based on that.
+
+[00:27:28,000] All right. Thank you. Thank you, Janice. Have a nice day.
+
+[00:27:31,000] Bye bye. Bye bye.
+
